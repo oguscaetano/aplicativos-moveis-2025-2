@@ -9,3 +9,4 @@ Tome | Guilherme Ami | Cecilia Prado | Heros Dinao
 Athletico Paranaense | Pedro Bahry | Guilherme Fernando | Caio Marcidele
 Havainas | Lucas de Oliveira | Jhenyffer | Vitor Noguera 
 Atlético Paranaense | Pedro Bahry | Guilherme Fernando | Caio Marcidele
+Biblioteca | Lohanna | Vitor Luiz
