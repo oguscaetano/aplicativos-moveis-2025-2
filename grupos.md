@@ -8,3 +8,4 @@ ID | Nome projeto | Nome 1 | Nome 2 | Nome 3
 3 | Tome | Guilherme Ami | Cecilia Prado | Heros Dinao
 4 | Athletico Paranaense | Pedro Bahry | Guilherme Fernando | Caio Marcidele
 5 | Autismo | Rafael Zacharkim | Bruno Nascimento | Guilherme Romero
+6 | Santos | Getulio | Gustavo Cirino | Leonardo Rambo
