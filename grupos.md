@@ -10,3 +10,4 @@ ID | Nome projeto | Nome 1 | Nome 2 | Nome 3
 5 | Autismo | Rafael Zacharkim | Bruno Nascimento | Guilherme Romero
 6 | Santos | Getulio | Gustavo Cirino | Leonardo Rambo
 7 | Atumalaca | Nicollas Oliveira | Vinicius Miranda Menezes | João Claudio Berardi
+8 | Biblioteca | Lohanna Bieti  | Vitor Luiz
