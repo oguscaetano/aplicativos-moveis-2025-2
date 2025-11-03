@@ -10,3 +10,4 @@ Data | ID | Nome projeto | Nome 1 | Nome 2 | Nome 3
 17/11 | 6 | Santos | Getulio | Gustavo Cirino | Leonardo Rambo
 18/11 | 7 | Atumalaca | Nicollas Oliveira | Vinicius Miranda Menezes | João Claudio Berardi
 18/11 | 8 | Biblioteca | Lohanna Bieti  | Vitor Luiz
+18/11 | 9 | Havaianas | Lucas De oliveira Rosa  | Jhenyffer | Vitor Marcelo
